@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+// import Navbar from './conponents/layout/navbar';
 import './App.css';
 
 function App() {
