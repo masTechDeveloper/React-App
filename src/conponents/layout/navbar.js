@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Navbar() {
-  render(
+  return (
     <div>
       <h1>Hello World</h1>
     </div>
