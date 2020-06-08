@@ -3,7 +3,7 @@ import Navbar from './conponents/layout/navbar';
 import './App.css';
 
 function App() {
-  return <Navbar name='Ashir' age='28' />;
+  return <Navbar name='Muhammad Ashir Ansari' age='25' />;
 }
 
 export default App;
